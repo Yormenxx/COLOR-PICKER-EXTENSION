@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "name":"First extension",
+    "version":"1.0",
+    "description":"Desarrollo de una nueva extension",
+    "icons":{
+        "128":"juma.png"
+    },
+    "action":{
+        "default_popup":"popup.html"
+    }
+}
